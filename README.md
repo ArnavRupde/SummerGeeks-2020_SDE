@@ -1,6 +1,19 @@
 # SummerGeeks-2020_SDE
 SummerGeeks 2020 SDE assignment
 
+#Technologies Used:
+Node JS, Bootstrap
+
+#Databse Used:
+MySQL
+
+#SMS API used: 
+FAST2SMS
+
+#Mailing Using:
+NodeMailer
+
+#Instructions
 Install required node packages using NPM
 
 Run example.js file using command node example.js
