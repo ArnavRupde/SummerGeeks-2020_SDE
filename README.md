@@ -13,17 +13,19 @@ FAST2SMS
 #Mailing Using:
 NodeMailer
 
-#Instructions
+Instructions
 Install required node packages using NPM
 
 Run example.js file using command node example.js
 
-Database Setup:
+Database Setup
+
    Create databse mydb in MySQL.
    Import visitor.sql file in it.
    Run Xampp/Wampp and make sure Server is running.
    
-Requirements:
+Requirements
+
 Please perform this changes in Example.js
   Set up fast2sms api and Enter API key in Express.js file where mentioned.
   System mail should contain mail id using which email will be sent.
